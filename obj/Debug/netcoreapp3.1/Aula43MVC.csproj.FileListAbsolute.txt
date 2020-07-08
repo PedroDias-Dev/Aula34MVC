@@ -1,0 +1,13 @@
+C:\Users\pedro\Documents\Programação\Aula43MVC\bin\Debug\netcoreapp3.1\Aula43MVC.exe
+C:\Users\pedro\Documents\Programação\Aula43MVC\bin\Debug\netcoreapp3.1\Aula43MVC.deps.json
+C:\Users\pedro\Documents\Programação\Aula43MVC\bin\Debug\netcoreapp3.1\Aula43MVC.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\Aula43MVC\bin\Debug\netcoreapp3.1\Aula43MVC.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Programação\Aula43MVC\bin\Debug\netcoreapp3.1\Aula43MVC.dll
+C:\Users\pedro\Documents\Programação\Aula43MVC\bin\Debug\netcoreapp3.1\Aula43MVC.pdb
+C:\Users\pedro\Documents\Programação\Aula43MVC\obj\Debug\netcoreapp3.1\Aula43MVC.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Programação\Aula43MVC\obj\Debug\netcoreapp3.1\Aula43MVC.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\Aula43MVC\obj\Debug\netcoreapp3.1\Aula43MVC.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\Aula43MVC\obj\Debug\netcoreapp3.1\Aula43MVC.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\Aula43MVC\obj\Debug\netcoreapp3.1\Aula43MVC.dll
+C:\Users\pedro\Documents\Programação\Aula43MVC\obj\Debug\netcoreapp3.1\Aula43MVC.pdb
+C:\Users\pedro\Documents\Programação\Aula43MVC\obj\Debug\netcoreapp3.1\Aula43MVC.genruntimeconfig.cache
